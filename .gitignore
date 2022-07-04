@@ -1,5 +1,3 @@
-# Default ignored files
-*.iml
-*.pyc
 .idea/
+*.iml
 out/
